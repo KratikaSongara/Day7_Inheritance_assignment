@@ -1,0 +1,7 @@
+THIS KEYWORD :-
+"this" keyword is used to specify the current class in which we are working.
+It is used to set the value of variables.
+
+SUPER KEYWORD :-
+"super" keyword is used as a reference for parent class.
+It is by default present in our constructor and suppose if we are extending any class then with the help of "super" keyword, we will be able to access all the members of the parent class.
